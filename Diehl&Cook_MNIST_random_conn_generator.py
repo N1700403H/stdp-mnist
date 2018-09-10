@@ -36,8 +36,8 @@ def sparsenMatrix(baseMatrix, pConn):
     
 def create_weights():
     
-    nInput = 784
-    nE = 400
+    nInput = 16
+    nE = 100
     nI = nE 
     dataPath = './random/'
     weight = {}
