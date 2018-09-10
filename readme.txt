@@ -1,4 +1,8 @@
 This is a trying of applying this model in DDoS detect.
+Surely this is not the end of this program and we will push this forward when we are capable of writing our framework.
+
+
+
 
 This is the code for the paper "Unsupervised learning of digit recognition using spike-timing-dependent plasticity" available at http://journal.frontiersin.org/article/10.3389/fncom.2015.00099/abstract#
 
